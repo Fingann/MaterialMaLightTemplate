@@ -1,6 +1,7 @@
 # FingannTemplate
 MVVM light, Mahapps, MaterialDesign, Notification, Navigation
 
+![Main Page][MainPage]
 
 ## NotificationsService
 Notifications are based on 
@@ -29,4 +30,4 @@ To navigate to the MainPageView you can now call NavigateTo with the view model 
 NavigationService.NavigateTo("MainPageViewModel")
 ```
 
-
+[MainPage]: https://i.imgur.com/eCd9td4.png "Main Page"
