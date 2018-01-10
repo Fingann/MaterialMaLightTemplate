@@ -1,4 +1,4 @@
-# FingannTemplate
+# MaterialMaLightTemplate
 MVVM light, Mahapps, MaterialDesign, Notification, Navigation
 
 ![Main Page][MainPage]
